@@ -1,6 +1,6 @@
 # 🧠 Student Exam Score Analysis (Python Project)
 
-### 👩‍💻 Author: Khadija Umar Rao
+### 👩‍💻 Author: Khadija Rao
 
 ---
 
